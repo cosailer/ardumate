@@ -1,5 +1,5 @@
 # ardumate
-this is a bigger arduboy clone with more features, the has not been reviewed and may contain potential issues, please use at your discretion.
+this is a bigger arduboy clone with more features, the PCB has not been reviewed and may contain potential issues, please use at your discretion.
 
 **specification:**\
 mcu: atmega1284p\
