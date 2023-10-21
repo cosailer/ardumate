@@ -7,7 +7,7 @@ usb-serial:ft232r\
 width:78.74mm\
 height:99.06mm
 
-compared with original arduboy, the major differences are:\
+compared with original arduboy, the major differences are:
 
 1, display:2.42 OLED\
 2, mcu: atmega1284p(DIP), 128 KB flash, 4 KB EEPROM, 16 KB SRAM\
@@ -18,7 +18,7 @@ compared with original arduboy, the major differences are:\
 7, socket for a nRF24L01 module\
 8, use ftdi ft232r usb serial to connect to PC\
 9, SD card slot\
-10, USB stack removed for arduboy library\
+10, USB stack removed for arduboy library
 
 <img src="./ardumate/ardumate-f.png" width="500">
 <img src="./ardumate/ardumate-b.png" width="500">
